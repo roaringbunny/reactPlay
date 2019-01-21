@@ -1,0 +1,7 @@
+.hello {
+    margin-bottom: 15px;
+}
+.hello .greeting {
+    font-style: italic;
+    font-weight: 700;
+}
